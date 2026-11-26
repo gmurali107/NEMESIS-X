@@ -1,2 +1,10 @@
-opencv-python
-numpy
+
+fastapi
+uvicorn[standard]
+python-multipart
+ultralytics
+opencv-python-headless
+numpy<2
+pandas
+networkx
+imageio-ffmpeg
