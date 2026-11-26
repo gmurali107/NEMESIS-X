@@ -1,0 +1,560 @@
+Track_ID,Anomaly,Timestamp,Explanation
+1,PERSON ENTERED MONITORED ZONE,2026-11-25 14:12:22,A person has entered the monitored zone.
+4,PERSON ENTERED MONITORED ZONE,2026-11-25 14:12:24,A person has entered the monitored zone.
+5,PERSON ENTERED MONITORED ZONE,2026-11-25 14:12:24,A person has entered the monitored zone.
+10,PERSON ENTERED MONITORED ZONE,2026-11-25 14:12:25,A person has entered the monitored zone.
+15,PERSON ENTERED MONITORED ZONE,2026-11-25 14:12:29,A person has entered the monitored zone.
+17,PERSON ENTERED MONITORED ZONE,2026-11-25 14:12:30,A person has entered the monitored zone.
+24,PERSON ENTERED MONITORED ZONE,2026-11-25 14:12:33,A person has entered the monitored zone.
+1,LONG ZONE STAY,2026-11-25 14:12:35,Stayed 15.0 seconds
+29,PERSON ENTERED MONITORED ZONE,2026-11-25 14:12:37,A person has entered the monitored zone.
+32,PERSON ENTERED MONITORED ZONE,2026-11-25 14:12:39,A person has entered the monitored zone.
+1,PERSON ENTERED MONITORED ZONE,2026-11-25 14:21:39,A person has entered the monitored zone.
+2,PERSON ENTERED MONITORED ZONE,2026-11-25 14:21:39,A person has entered the monitored zone.
+6,PERSON ENTERED MONITORED ZONE,2026-11-25 14:21:42,A person has entered the monitored zone.
+12,PERSON ENTERED MONITORED ZONE,2026-11-25 14:21:44,A person has entered the monitored zone.
+1,LONG ZONE STAY,2026-11-25 14:21:51,Stayed 15.0 seconds
+16,PERSON ENTERED MONITORED ZONE,2026-11-25 14:21:52,A person has entered the monitored zone.
+17,PERSON ENTERED MONITORED ZONE,2026-11-25 14:21:52,A person has entered the monitored zone.
+8,LONG ZONE STAY,2026-11-25 14:21:58,Stayed 16.1 seconds
+1,PERSON ENTERED MONITORED ZONE,2026-11-25 15:25:50,A person has entered the monitored zone.
+4,PERSON ENTERED MONITORED ZONE,2026-11-25 15:25:53,A person has entered the monitored zone.
+4,PERSON ENTERED MONITORED ZONE,2026-11-25 15:25:54,A person has entered the monitored zone.
+15,PERSON ENTERED MONITORED ZONE,2026-11-25 15:25:54,A person has entered the monitored zone.
+16,PERSON ENTERED MONITORED ZONE,2026-11-25 15:25:55,A person has entered the monitored zone.
+20,PERSON ENTERED MONITORED ZONE,2026-11-25 15:25:55,A person has entered the monitored zone.
+22,PERSON ENTERED MONITORED ZONE,2026-11-25 15:25:55,A person has entered the monitored zone.
+23,PERSON ENTERED MONITORED ZONE,2026-11-25 15:25:55,A person has entered the monitored zone.
+24,PERSON ENTERED MONITORED ZONE,2026-11-25 15:25:56,A person has entered the monitored zone.
+26,PERSON ENTERED MONITORED ZONE,2026-11-25 15:25:57,A person has entered the monitored zone.
+27,PERSON ENTERED MONITORED ZONE,2026-11-25 15:25:57,A person has entered the monitored zone.
+1,LONG ZONE STAY,2026-11-25 15:26:02,Stayed 15.0 seconds
+31,PERSON ENTERED MONITORED ZONE,2026-11-25 15:26:02,A person has entered the monitored zone.
+1,PERSON ENTERED MONITORED ZONE,2026-11-25 15:32:38,A person has entered the monitored zone.
+5,PERSON ENTERED MONITORED ZONE,2026-11-25 15:32:40,A person has entered the monitored zone.
+2,PERSON ENTERED MONITORED ZONE,2026-11-25 15:32:40,A person has entered the monitored zone.
+2,PERSON ENTERED MONITORED ZONE,2026-11-25 15:32:40,A person has entered the monitored zone.
+1,PERSON ENTERED MONITORED ZONE,2026-11-25 15:48:55,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:48:55,A person has entered the monitored zone.
+5,PERSON ENTERED MONITORED ZONE,2026-11-25 15:48:55,A person has entered the monitored zone.
+6,PERSON ENTERED MONITORED ZONE,2026-11-25 15:48:55,A person has entered the monitored zone.
+9,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:00,A person has entered the monitored zone.
+13,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:02,A person has entered the monitored zone.
+14,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:02,A person has entered the monitored zone.
+1,LONG ZONE STAY,2026-11-25 15:49:06,Stayed 15.0 seconds
+5,LONG ZONE STAY,2026-11-25 15:49:06,Stayed 15.0 seconds
+3,LONG ZONE STAY,2026-11-25 15:49:06,Stayed 15.0 seconds
+21,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:12,A person has entered the monitored zone.
+27,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:15,A person has entered the monitored zone.
+36,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:21,A person has entered the monitored zone.
+34,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:21,A person has entered the monitored zone.
+41,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:26,A person has entered the monitored zone.
+49,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:34,A person has entered the monitored zone.
+58,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:38,A person has entered the monitored zone.
+65,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:44,A person has entered the monitored zone.
+66,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:44,A person has entered the monitored zone.
+67,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:44,A person has entered the monitored zone.
+71,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:46,A person has entered the monitored zone.
+49,LONG ZONE STAY,2026-11-25 15:49:49,Stayed 15.0 seconds
+75,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:52,A person has entered the monitored zone.
+77,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:52,A person has entered the monitored zone.
+86,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:55,A person has entered the monitored zone.
+88,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:58,A person has entered the monitored zone.
+89,PERSON ENTERED MONITORED ZONE,2026-11-25 15:49:59,A person has entered the monitored zone.
+90,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:00,A person has entered the monitored zone.
+91,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:02,A person has entered the monitored zone.
+102,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:11,A person has entered the monitored zone.
+105,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:11,A person has entered the monitored zone.
+111,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:16,A person has entered the monitored zone.
+114,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:17,A person has entered the monitored zone.
+110,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:18,A person has entered the monitored zone.
+126,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:36,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:36,A person has entered the monitored zone.
+129,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:36,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:39,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:41,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:41,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:44,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:44,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:44,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:44,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:45,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:48,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:49,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:49,A person has entered the monitored zone.
+133,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:49,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:49,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:50,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:50,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:50,A person has entered the monitored zone.
+126,LONG ZONE STAY,2026-11-25 15:50:51,Stayed 15.0 seconds
+128,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:51,A person has entered the monitored zone.
+129,LONG ZONE STAY,2026-11-25 15:50:51,Stayed 15.0 seconds
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:53,A person has entered the monitored zone.
+146,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:53,A person has entered the monitored zone.
+147,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:54,A person has entered the monitored zone.
+148,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:54,A person has entered the monitored zone.
+155,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:58,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:50:59,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:00,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:00,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:01,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:02,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:04,A person has entered the monitored zone.
+162,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:05,A person has entered the monitored zone.
+146,LONG ZONE STAY,2026-11-25 15:51:08,Stayed 15.0 seconds
+169,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:13,A person has entered the monitored zone.
+171,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:14,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:19,A person has entered the monitored zone.
+175,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:19,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:20,A person has entered the monitored zone.
+176,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:20,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:20,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:20,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:21,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:21,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:21,A person has entered the monitored zone.
+179,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:22,A person has entered the monitored zone.
+181,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:22,A person has entered the monitored zone.
+185,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:23,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:23,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:23,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:24,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:25,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:25,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:26,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:26,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:27,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:27,A person has entered the monitored zone.
+198,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:27,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:27,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:28,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:28,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:29,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-25 15:51:30,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:13,A person has entered the monitored zone.
+201,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:13,A person has entered the monitored zone.
+202,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:13,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:13,A person has entered the monitored zone.
+209,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:13,A person has entered the monitored zone.
+211,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:14,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:15,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:15,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:16,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:17,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:18,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:20,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:20,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:21,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:22,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:22,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:23,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:23,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:24,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:24,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:24,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:25,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:25,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:26,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:27,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:27,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:27,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:27,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:28,A person has entered the monitored zone.
+201,LONG ZONE STAY,2026-11-25 15:52:28,Stayed 15.0 seconds
+202,LONG ZONE STAY,2026-11-25 15:52:28,Stayed 15.0 seconds
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:28,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:29,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:29,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:29,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:29,A person has entered the monitored zone.
+219,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:29,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:30,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:30,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:30,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:30,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:31,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:33,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:34,A person has entered the monitored zone.
+224,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:34,A person has entered the monitored zone.
+225,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:34,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:34,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:35,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:35,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:35,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:36,A person has entered the monitored zone.
+226,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:36,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:37,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:37,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:37,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:37,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:39,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:39,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:39,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:39,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:39,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:43,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:44,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:44,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:45,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:46,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:47,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:48,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:50,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:51,A person has entered the monitored zone.
+226,LONG ZONE STAY,2026-11-25 15:52:51,Stayed 15.0 seconds
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:51,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:51,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:52,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:52,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:52,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:52,A person has entered the monitored zone.
+200,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:53,A person has entered the monitored zone.
+232,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:57,A person has entered the monitored zone.
+233,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:57,A person has entered the monitored zone.
+236,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:59,A person has entered the monitored zone.
+232,PERSON ENTERED MONITORED ZONE,2026-11-25 15:52:59,A person has entered the monitored zone.
+232,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:00,A person has entered the monitored zone.
+232,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:03,A person has entered the monitored zone.
+232,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:03,A person has entered the monitored zone.
+232,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:04,A person has entered the monitored zone.
+1,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:31,A person has entered the monitored zone.
+2,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:31,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:31,A person has entered the monitored zone.
+6,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:31,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:31,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:32,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:32,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:33,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:33,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:33,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:34,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:34,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:34,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:36,A person has entered the monitored zone.
+10,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:36,A person has entered the monitored zone.
+11,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:36,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:37,A person has entered the monitored zone.
+13,PERSON ENTERED MONITORED ZONE,2026-11-25 15:53:37,A person has entered the monitored zone.
+1,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:21,A person has entered the monitored zone.
+4,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:22,A person has entered the monitored zone.
+5,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:23,A person has entered the monitored zone.
+8,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:25,A person has entered the monitored zone.
+9,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:26,A person has entered the monitored zone.
+14,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:27,A person has entered the monitored zone.
+16,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:28,A person has entered the monitored zone.
+18,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:28,A person has entered the monitored zone.
+21,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:29,A person has entered the monitored zone.
+25,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:33,A person has entered the monitored zone.
+30,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:34,A person has entered the monitored zone.
+33,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:35,A person has entered the monitored zone.
+26,PERSON ENTERED MONITORED ZONE,2026-11-26 01:11:36,A person has entered the monitored zone.
+56,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:00,A person has entered the monitored zone.
+60,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:01,A person has entered the monitored zone.
+65,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:01,A person has entered the monitored zone.
+67,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:02,A person has entered the monitored zone.
+77,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:04,A person has entered the monitored zone.
+71,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:04,A person has entered the monitored zone.
+71,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:04,A person has entered the monitored zone.
+69,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:05,A person has entered the monitored zone.
+89,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:05,A person has entered the monitored zone.
+93,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:06,A person has entered the monitored zone.
+96,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:07,A person has entered the monitored zone.
+104,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:11,A person has entered the monitored zone.
+51,LONG ZONE STAY,2026-11-26 01:12:12,Object remained in zone for 15.1 seconds.
+105,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:12,A person has entered the monitored zone.
+107,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:13,A person has entered the monitored zone.
+110,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:13,A person has entered the monitored zone.
+55,LONG ZONE STAY,2026-11-26 01:12:13,Object remained in zone for 15.1 seconds.
+111,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:14,A person has entered the monitored zone.
+114,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:14,A person has entered the monitored zone.
+117,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:18,A person has entered the monitored zone.
+118,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:18,A person has entered the monitored zone.
+119,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:18,A person has entered the monitored zone.
+121,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:19,A person has entered the monitored zone.
+122,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:19,A person has entered the monitored zone.
+125,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:19,A person has entered the monitored zone.
+127,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:20,A person has entered the monitored zone.
+128,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:20,A person has entered the monitored zone.
+130,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:22,A person has entered the monitored zone.
+137,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:24,A person has entered the monitored zone.
+139,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:25,A person has entered the monitored zone.
+143,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:27,A person has entered the monitored zone.
+106,LONG ZONE STAY,2026-11-26 01:12:27,Object remained in zone for 15.0 seconds.
+108,LONG ZONE STAY,2026-11-26 01:12:27,Object remained in zone for 15.0 seconds.
+150,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:28,A person has entered the monitored zone.
+151,PERSON ENTERED MONITORED ZONE,2026-11-26 01:12:28,A person has entered the monitored zone.
+2,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:41,A person has entered the monitored zone.
+4,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:41,A person has entered the monitored zone.
+5,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:42,A person has entered the monitored zone.
+8,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:42,A person has entered the monitored zone.
+10,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:43,A person has entered the monitored zone.
+28,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:55,A person has entered the monitored zone.
+30,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:55,A person has entered the monitored zone.
+31,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:56,A person has entered the monitored zone.
+34,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:56,A person has entered the monitored zone.
+37,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:57,A person has entered the monitored zone.
+40,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:58,A person has entered the monitored zone.
+42,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:58,A person has entered the monitored zone.
+44,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:58,A person has entered the monitored zone.
+45,PERSON ENTERED MONITORED ZONE,2026-11-26 01:22:58,A person has entered the monitored zone.
+57,PERSON ENTERED MONITORED ZONE,2026-11-26 01:23:05,A person has entered the monitored zone.
+4,PERSON ENTERED MONITORED ZONE,2026-11-26 01:41:59,A person has entered the monitored zone.
+10,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:00,A person has entered the monitored zone.
+11,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:00,A person has entered the monitored zone.
+22,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:10,A person has entered the monitored zone.
+38,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:19,A person has entered the monitored zone.
+47,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:19,A person has entered the monitored zone.
+48,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:19,A person has entered the monitored zone.
+52,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:20,A person has entered the monitored zone.
+53,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:20,A person has entered the monitored zone.
+54,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:20,A person has entered the monitored zone.
+56,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:21,A person has entered the monitored zone.
+58,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:21,A person has entered the monitored zone.
+60,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:22,A person has entered the monitored zone.
+64,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:23,A person has entered the monitored zone.
+65,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:23,A person has entered the monitored zone.
+70,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:24,A person has entered the monitored zone.
+71,PERSON ENTERED MONITORED ZONE,2026-11-26 01:42:25,A person has entered the monitored zone.
+6,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:17,A person has entered the monitored zone.
+7,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:17,A person has entered the monitored zone.
+25,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:23,A person has entered the monitored zone.
+20,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:23,A person has entered the monitored zone.
+28,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:24,A person has entered the monitored zone.
+38,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:25,A person has entered the monitored zone.
+77,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:51,A person has entered the monitored zone.
+82,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:52,A person has entered the monitored zone.
+90,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:52,A person has entered the monitored zone.
+66,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:53,A person has entered the monitored zone.
+106,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:54,A person has entered the monitored zone.
+109,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:54,A person has entered the monitored zone.
+122,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:56,A person has entered the monitored zone.
+131,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:57,A person has entered the monitored zone.
+132,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:57,A person has entered the monitored zone.
+138,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:58,A person has entered the monitored zone.
+143,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:58,A person has entered the monitored zone.
+144,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:58,A person has entered the monitored zone.
+152,PERSON ENTERED MONITORED ZONE,2026-11-26 01:51:59,A person has entered the monitored zone.
+157,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:00,A person has entered the monitored zone.
+159,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:00,A person has entered the monitored zone.
+165,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:01,A person has entered the monitored zone.
+169,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:01,A person has entered the monitored zone.
+170,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:02,A person has entered the monitored zone.
+171,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:02,A person has entered the monitored zone.
+172,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:04,A person has entered the monitored zone.
+173,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:05,A person has entered the monitored zone.
+174,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:05,A person has entered the monitored zone.
+177,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:06,A person has entered the monitored zone.
+178,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:06,A person has entered the monitored zone.
+179,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:07,A person has entered the monitored zone.
+86,LONG ZONE STAY,2026-11-26 01:52:07,Object remained in zone for 15.1 seconds.
+188,PERSON ENTERED MONITORED ZONE,2026-11-26 01:52:09,A person has entered the monitored zone.
+1,PERSON ENTERED MONITORED ZONE,2026-11-26 02:02:36,A person has entered the monitored zone.
+3,PERSON ENTERED MONITORED ZONE,2026-11-26 02:02:37,A person has entered the monitored zone.
+4,PERSON ENTERED MONITORED ZONE,2026-11-26 02:02:37,A person has entered the monitored zone.
+15,PERSON ENTERED MONITORED ZONE,2026-11-26 02:02:38,A person has entered the monitored zone.
+19,PERSON ENTERED MONITORED ZONE,2026-11-26 02:02:39,A person has entered the monitored zone.
+22,PERSON ENTERED MONITORED ZONE,2026-11-26 02:02:40,A person has entered the monitored zone.
+24,PERSON ENTERED MONITORED ZONE,2026-11-26 02:02:40,A person has entered the monitored zone.
+34,PERSON ENTERED MONITORED ZONE,2026-11-26 02:02:45,A person has entered the monitored zone.
+43,PERSON ENTERED MONITORED ZONE,2026-11-26 02:02:52,A person has entered the monitored zone.
+44,PERSON ENTERED MONITORED ZONE,2026-11-26 02:02:53,A person has entered the monitored zone.
+40,LONG ZONE STAY,2026-11-26 02:03:04,Object remained in zone for 15.1 seconds.
+51,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:05,A person has entered the monitored zone.
+53,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:06,A person has entered the monitored zone.
+58,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:07,A person has entered the monitored zone.
+60,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:07,A person has entered the monitored zone.
+62,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:08,A person has entered the monitored zone.
+64,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:08,A person has entered the monitored zone.
+68,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:10,A person has entered the monitored zone.
+64,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:10,A person has entered the monitored zone.
+75,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:12,A person has entered the monitored zone.
+80,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:14,A person has entered the monitored zone.
+82,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:16,A person has entered the monitored zone.
+87,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:17,A person has entered the monitored zone.
+90,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:18,A person has entered the monitored zone.
+93,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:18,A person has entered the monitored zone.
+102,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:19,A person has entered the monitored zone.
+105,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:19,A person has entered the monitored zone.
+107,PERSON ENTERED MONITORED ZONE,2026-11-26 02:03:20,A person has entered the monitored zone.
+2,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:29,A person has entered the monitored zone.
+4,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:30,A person has entered the monitored zone.
+6,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:31,A person has entered the monitored zone.
+10,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:32,A person has entered the monitored zone.
+11,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:33,A person has entered the monitored zone.
+13,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:33,A person has entered the monitored zone.
+14,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:33,A person has entered the monitored zone.
+16,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:34,A person has entered the monitored zone.
+19,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:35,A person has entered the monitored zone.
+21,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:37,A person has entered the monitored zone.
+22,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:37,A person has entered the monitored zone.
+36,PERSON ENTERED MONITORED ZONE,2026-11-26 02:12:43,A person has entered the monitored zone.
+22,PERSON ENTERED MONITORED ZONE,2026-11-26 04:46:55,A person has entered the monitored zone.
+26,PERSON ENTERED MONITORED ZONE,2026-11-26 04:46:56,A person has entered the monitored zone.
+51,PERSON ENTERED MONITORED ZONE,2026-11-26 04:47:05,A person has entered the monitored zone.
+16,PERSON ENTERED MONITORED ZONE,2026-11-26 07:10:52,A person has entered the monitored zone.
+18,PERSON ENTERED MONITORED ZONE,2026-11-26 07:10:52,A person has entered the monitored zone.
+2,LONG ZONE STAY,2026-11-26 07:10:57,Stayed 15.4 seconds
+39,PERSON ENTERED MONITORED ZONE,2026-11-26 07:11:02,A person has entered the monitored zone.
+96,PERSON ENTERED MONITORED ZONE,2026-11-26 07:16:04,A person has entered the monitored zone.
+108,PERSON ENTERED MONITORED ZONE,2026-11-26 07:16:07,A person has entered the monitored zone.
+78,LONG ZONE STAY,2026-11-26 07:21:38,Stayed 338.2 seconds
+144,PERSON ENTERED MONITORED ZONE,2026-11-26 07:21:41,A person has entered the monitored zone.
+126,LONG ZONE STAY,2026-11-26 07:21:41,Stayed 330.2 seconds
+170,PERSON ENTERED MONITORED ZONE,2026-11-26 07:21:48,A person has entered the monitored zone.
+2,PERSON ENTERED MONITORED ZONE,2026-11-26 07:28:11,A person has entered the monitored zone.
+4,PERSON ENTERED MONITORED ZONE,2026-11-26 07:28:12,A person has entered the monitored zone.
+6,PERSON ENTERED MONITORED ZONE,2026-11-26 07:28:14,A person has entered the monitored zone.
+4,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:25:54,Zone entry and exit occurred within 1.0 seconds.
+4,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:25:54,Zone entry and exit occurred within 0.0 seconds.
+5,RAPID ZONE ENTRY AND EXIT,2026-11-25 14:12:27,Zone entry and exit occurred within 3.0 seconds.
+5,RAPID ZONE ENTRY AND EXIT,2026-11-25 14:12:28,Zone entry and exit occurred within 1.0 seconds.
+5,RAPID ZONE ENTRY AND EXIT,2026-11-25 14:12:28,Zone entry and exit occurred within 0.0 seconds.
+5,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:22:44,Zone entry and exit occurred within 2.0 seconds.
+21,RAPID ZONE ENTRY AND EXIT,2026-11-26 02:12:37,Zone entry and exit occurred within 0.0 seconds.
+24,RAPID ZONE ENTRY AND EXIT,2026-11-25 14:12:36,Zone entry and exit occurred within 3.0 seconds.
+2,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:32:40,Zone entry and exit occurred within 0.0 seconds.
+2,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:22:44,Zone entry and exit occurred within 3.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 14:21:42,Zone entry and exit occurred within 0.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 14:21:43,Zone entry and exit occurred within 0.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:31,Zone entry and exit occurred within 0.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:31,Zone entry and exit occurred within 0.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:32,Zone entry and exit occurred within 0.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:33,Zone entry and exit occurred within 1.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:33,Zone entry and exit occurred within 0.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:33,Zone entry and exit occurred within 0.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:34,Zone entry and exit occurred within 1.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:34,Zone entry and exit occurred within 0.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:34,Zone entry and exit occurred within 0.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:36,Zone entry and exit occurred within 2.0 seconds.
+3,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:37,Zone entry and exit occurred within 1.0 seconds.
+26,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:11:36,Zone entry and exit occurred within 0.0 seconds.
+22,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:42:12,Zone entry and exit occurred within 2.0 seconds.
+22,RAPID ZONE ENTRY AND EXIT,2026-11-26 02:12:37,Zone entry and exit occurred within 0.0 seconds.
+31,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:42:18,Zone entry and exit occurred within 2.0 seconds.
+36,RAPID ZONE ENTRY AND EXIT,2026-11-26 02:12:43,Zone entry and exit occurred within 0.0 seconds.
+58,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:11:59,Zone entry and exit occurred within 1.0 seconds.
+64,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:42:23,Zone entry and exit occurred within 0.0 seconds.
+64,RAPID ZONE ENTRY AND EXIT,2026-11-26 02:03:09,Zone entry and exit occurred within 1.0 seconds.
+66,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:51:53,Zone entry and exit occurred within 4.0 seconds.
+66,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:51:53,Zone entry and exit occurred within 0.0 seconds.
+71,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:12:04,Zone entry and exit occurred within 0.0 seconds.
+75,RAPID ZONE ENTRY AND EXIT,2026-11-26 07:16:01,Zone entry and exit occurred within 3.0 seconds.
+77,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:51:51,Zone entry and exit occurred within 0.0 seconds.
+110,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:17,Zone entry and exit occurred within 3.0 seconds.
+127,RAPID ZONE ENTRY AND EXIT,2026-11-26 01:12:21,Zone entry and exit occurred within 1.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:37,Zone entry and exit occurred within 1.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:39,Zone entry and exit occurred within 0.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:41,Zone entry and exit occurred within 0.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:41,Zone entry and exit occurred within 0.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:44,Zone entry and exit occurred within 0.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:44,Zone entry and exit occurred within 0.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:44,Zone entry and exit occurred within 0.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:44,Zone entry and exit occurred within 0.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:48,Zone entry and exit occurred within 3.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:49,Zone entry and exit occurred within 1.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:49,Zone entry and exit occurred within 0.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:49,Zone entry and exit occurred within 0.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:50,Zone entry and exit occurred within 1.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:50,Zone entry and exit occurred within 0.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:50,Zone entry and exit occurred within 0.0 seconds.
+128,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:51,Zone entry and exit occurred within 1.0 seconds.
+142,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:53,Zone entry and exit occurred within 1.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:50:59,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:00,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:01,Zone entry and exit occurred within 1.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:01,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:04,Zone entry and exit occurred within 2.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:20,Zone entry and exit occurred within 1.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:20,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:20,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:21,Zone entry and exit occurred within 1.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:21,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:21,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:23,Zone entry and exit occurred within 2.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:23,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:24,Zone entry and exit occurred within 1.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:25,Zone entry and exit occurred within 1.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:25,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:25,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:26,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:27,Zone entry and exit occurred within 1.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:27,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:27,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:28,Zone entry and exit occurred within 1.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:28,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:28,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:29,Zone entry and exit occurred within 0.0 seconds.
+144,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:51:30,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:13,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:13,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:15,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:15,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:17,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:18,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:20,Zone entry and exit occurred within 2.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:20,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:21,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:22,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:22,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:23,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:23,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:23,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:24,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:24,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:25,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:25,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:26,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:26,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:27,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:27,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:27,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:27,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:28,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:29,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:29,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:29,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:29,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:30,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:30,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:30,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:30,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:31,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:32,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:34,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:34,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:34,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:35,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:35,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:35,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:36,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:37,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:37,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:37,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:39,Zone entry and exit occurred within 2.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:39,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:39,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:39,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:39,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:43,Zone entry and exit occurred within 4.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:44,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:44,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:45,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:46,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:47,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:48,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:50,Zone entry and exit occurred within 2.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:51,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:51,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:51,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:52,Zone entry and exit occurred within 1.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:52,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:52,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:52,Zone entry and exit occurred within 0.0 seconds.
+200,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:53,Zone entry and exit occurred within 1.0 seconds.
+232,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:52:59,Zone entry and exit occurred within 2.0 seconds.
+232,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:00,Zone entry and exit occurred within 1.0 seconds.
+232,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:02,Zone entry and exit occurred within 2.0 seconds.
+232,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:03,Zone entry and exit occurred within 0.0 seconds.
+232,RAPID ZONE ENTRY AND EXIT,2026-11-25 15:53:04,Zone entry and exit occurred within 1.0 seconds.
+44,RAPID ZONE ENTRY AND EXIT,2026-11-26 02:02:54,Zone entry and exit occurred within 1.0 seconds.

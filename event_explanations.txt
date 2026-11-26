@@ -1,0 +1,1343 @@
+========== NEMESIS-X EVENT EXPLANATIONS ==========
+
+ALERT 1
+Track ID: 1
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 14:12:35
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 1 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 2
+Track ID: 1
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 14:21:51
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 1 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 3
+Track ID: 8
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 14:21:58
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 8 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 4
+Track ID: 1
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 15:26:02
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 1 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 5
+Track ID: 1
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 15:49:06
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 1 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 6
+Track ID: 5
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 15:49:06
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 5 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 7
+Track ID: 3
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 15:49:06
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 3 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 8
+Track ID: 49
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 15:49:49
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 49 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 9
+Track ID: 126
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 15:50:51
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 126 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 10
+Track ID: 129
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 15:50:51
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 129 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 11
+Track ID: 146
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 15:51:08
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 146 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 12
+Track ID: 201
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 15:52:28
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 201 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 13
+Track ID: 202
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 15:52:28
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 202 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 14
+Track ID: 226
+Anomaly: LONG ZONE STAY
+Timestamp: 2026-11-25 15:52:51
+Evidence: The tracked object remained in the zone longer than the configured threshold.
+Explanation: Track ID 226 remained in the monitored zone longer than the configured time threshold.
+Recommended review: Review the recorded video to understand the context of this prolonged stay.
+---------------------------------------------
+
+ALERT 15
+Track ID: 4
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:25:54
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 4 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 16
+Track ID: 4
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:25:54
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 4 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 17
+Track ID: 5
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 14:12:27
+Evidence: Zone entry and exit occurred within 3.0 seconds.
+Explanation: Track ID 5 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 18
+Track ID: 5
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 14:12:28
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 5 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 19
+Track ID: 5
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 14:12:28
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 5 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 20
+Track ID: 24
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 14:12:36
+Evidence: Zone entry and exit occurred within 3.0 seconds.
+Explanation: Track ID 24 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 21
+Track ID: 2
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:32:40
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 2 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 22
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 14:21:42
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 23
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 14:21:43
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 24
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:31
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 25
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:31
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 26
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:32
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 27
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:33
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 28
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:33
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 29
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:33
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 30
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:34
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 31
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:34
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 32
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:34
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 33
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:36
+Evidence: Zone entry and exit occurred within 2.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 34
+Track ID: 3
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:37
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 3 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 35
+Track ID: 110
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:17
+Evidence: Zone entry and exit occurred within 3.0 seconds.
+Explanation: Track ID 110 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 36
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:37
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 37
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:39
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 38
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:41
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 39
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:41
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 40
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:44
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 41
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:44
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 42
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:44
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 43
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:44
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 44
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:48
+Evidence: Zone entry and exit occurred within 3.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 45
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:49
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 46
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:49
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 47
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:49
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 48
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:50
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 49
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:50
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 50
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:50
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 51
+Track ID: 128
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:51
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 128 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 52
+Track ID: 142
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:53
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 142 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 53
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:50:59
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 54
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:00
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 55
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:01
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 56
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:01
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 57
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:04
+Evidence: Zone entry and exit occurred within 2.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 58
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:20
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 59
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:20
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 60
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:20
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 61
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:21
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 62
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:21
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 63
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:21
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 64
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:23
+Evidence: Zone entry and exit occurred within 2.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 65
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:23
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 66
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:24
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 67
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:25
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 68
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:25
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 69
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:25
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 70
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:26
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 71
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:27
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 72
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:27
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 73
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:27
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 74
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:28
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 75
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:28
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 76
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:28
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 77
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:29
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 78
+Track ID: 144
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:51:30
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 144 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 79
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:13
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 80
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:13
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 81
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:15
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 82
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:15
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 83
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:17
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 84
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:18
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 85
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:20
+Evidence: Zone entry and exit occurred within 2.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 86
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:20
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 87
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:21
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 88
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:22
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 89
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:22
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 90
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:23
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 91
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:23
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 92
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:23
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 93
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:24
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 94
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:24
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 95
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:25
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 96
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:25
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 97
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:26
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 98
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:26
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 99
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:27
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 100
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:27
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 101
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:27
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 102
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:27
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 103
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:28
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 104
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:29
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 105
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:29
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 106
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:29
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 107
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:29
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 108
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:30
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 109
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:30
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 110
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:30
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 111
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:30
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 112
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:31
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 113
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:32
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 114
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:34
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 115
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:34
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 116
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:34
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 117
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:35
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 118
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:35
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 119
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:35
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 120
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:36
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 121
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:37
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 122
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:37
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 123
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:37
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 124
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:39
+Evidence: Zone entry and exit occurred within 2.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 125
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:39
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 126
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:39
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 127
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:39
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 128
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:39
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 129
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:43
+Evidence: Zone entry and exit occurred within 4.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 130
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:44
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 131
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:44
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 132
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:45
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 133
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:46
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 134
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:47
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 135
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:48
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 136
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:50
+Evidence: Zone entry and exit occurred within 2.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 137
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:51
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 138
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:51
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 139
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:51
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 140
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:52
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 141
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:52
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 142
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:52
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 143
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:52
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 144
+Track ID: 200
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:53
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 200 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 145
+Track ID: 232
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:52:59
+Evidence: Zone entry and exit occurred within 2.0 seconds.
+Explanation: Track ID 232 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 146
+Track ID: 232
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:00
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 232 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 147
+Track ID: 232
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:02
+Evidence: Zone entry and exit occurred within 2.0 seconds.
+Explanation: Track ID 232 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 148
+Track ID: 232
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:03
+Evidence: Zone entry and exit occurred within 0.0 seconds.
+Explanation: Track ID 232 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
+ALERT 149
+Track ID: 232
+Anomaly: RAPID ZONE ENTRY AND EXIT
+Timestamp: 2026-11-25 15:53:04
+Evidence: Zone entry and exit occurred within 1.0 seconds.
+Explanation: Track ID 232 entered and exited the monitored zone within a short interval.
+Recommended review: Review the video around the recorded entry and exit times.
+---------------------------------------------
+
